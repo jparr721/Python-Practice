@@ -20,8 +20,6 @@ class proj01:
         #Check if wind speed is valid
         if speed < 0 or speed > 200:
             print "Speed either too high, or too low."
-
-        #Same error here
         result = 0.6215*temp - (35.75*speed**0.16) + (0.4275*temp*speed**0.16) + 35.74
         return result
 
@@ -32,8 +30,6 @@ class proj01:
         #Check if wind speed is valid
         if (speed < 0 or speed > 200):
             print "Speed either too high, or too low."
-
-        #Result not callable, ERROR IS HERE
         result = 0.6215*temp - (11.37*speed ** 0.16) + (0.3965*temp*speed ** 0.16) + 13.12
         return result
 
