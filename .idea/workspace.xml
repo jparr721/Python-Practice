@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca41b6c8-2ac5-4e17-90dc-71c448a889a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MSU CS Project 1/project1/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MSU CS Project 1/project1/proj01.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python-Practice.iml" afterPath="$PROJECT_DIR$/.idea/Python-Practice.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MSU CS Project 1/project1/proj01.py" afterPath="$PROJECT_DIR$/MSU CS Project 1/project1/proj01.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +15,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python-Practice$BasicCalculator.coverage" NAME="BasicCalculator Coverage Results" MODIFIED="1480893559235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/Python-Practice$proj01.coverage" NAME="proj01 Coverage Results" MODIFIED="1483052320026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MSU CS Project 1/project1" />
+    <SUITE FILE_PATH="coverage/Python-Practice$proj01.coverage" NAME="proj01 Coverage Results" MODIFIED="1483076154734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MSU CS Project 1/project1" />
     <SUITE FILE_PATH="coverage/Python-Practice$BasicCalculator__1_.coverage" NAME="BasicCalculator (1) Coverage Results" MODIFIED="1482780219692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator/src" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -37,8 +37,8 @@
       <file leaf-file-name="proj01.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MSU CS Project 1/project1/proj01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="1515">
+              <caret line="101" column="54" lean-forward="true" selection-start-line="101" selection-start-column="54" selection-end-line="101" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -559,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MSU CS Project 1/project1/proj01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="1515">
+          <caret line="101" column="54" lean-forward="true" selection-start-line="101" selection-start-column="54" selection-end-line="101" selection-end-column="54" />
           <folding />
         </state>
       </provider>
