@@ -6,7 +6,6 @@
       <sourceFolder url="file://$MODULE_DIR$/MSU CS Project 1/project1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Calculator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MSU CS Project 2/project2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Neural Networks/first-flight" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6.0 (~/anaconda/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
